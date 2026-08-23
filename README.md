@@ -1,4 +1,4 @@
-# THMN 💜
+# THMN 
 ### Personal Finance Mobile Application
 
 THMN is a UX/UI mobile application prototype designed to help users better understand and manage their personal finances through a simple and supportive digital experience.
@@ -19,7 +19,7 @@ THMN was designed to bring these activities together in a single mobile experien
 
 ## Core Features
 
-### 💳 Expense Tracking
+### Expense Tracking
 
 Users can add expenses and review their recent spending history with clear categories, dates, and transaction amounts.
 
@@ -27,7 +27,7 @@ Users can add expenses and review their recent spending history with clear categ
   <img src="images/expense-tracking.png" width="300">
 </p>
 
-### 📊 Spending Trends
+### Spending Trends
 
 THMN provides visual spending analysis that allows users to:
 
@@ -40,7 +40,7 @@ THMN provides visual spending analysis that allows users to:
   <img src="images/spending-trends.png" width="300">
 </p>
 
-### 🔄 Subscription Management
+### Subscription Management
 
 The application provides a dedicated area for reviewing and managing active subscriptions.
 
@@ -50,7 +50,7 @@ Users can view subscription details, identify subscriptions that may need attent
   <img src="images/subscription-management.png" width="300">
 </p>
 
-### ✨ Personalized Financial Suggestions
+### Personalized Financial Suggestions
 
 THMN provides financial suggestions based on users' spending behavior.
 
