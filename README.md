@@ -13,7 +13,9 @@ Managing personal finances often requires users to keep track of expenses, recur
 
 THMN was designed to bring these activities together in a single mobile experience, allowing users to monitor their spending, understand financial patterns, manage subscriptions, and receive useful financial suggestions.
 
-![THMN Home](images/Home.png)
+<p align="center">
+  <img src="images/Home.png" width="350">
+</p>
 
 ## Core Features
 
@@ -21,7 +23,9 @@ THMN was designed to bring these activities together in a single mobile experien
 
 Users can add expenses and review their recent spending history with clear categories, dates, and transaction amounts.
 
-![Expense Tracking](images/expense-tracking.png)
+<p align="center">
+  <img src="images/expense-tracking.png" width="300">
+</p>
 
 ### 📊 Spending Trends
 
@@ -32,7 +36,9 @@ THMN provides visual spending analysis that allows users to:
 - Review category-level expenses
 - Understand changes in spending patterns
 
-![Spending Trends](images/spending-trends.png)
+<p align="center">
+  <img src="images/spending-trends.png" width="300">
+</p>
 
 ### 🔄 Subscription Management
 
@@ -40,7 +46,9 @@ The application provides a dedicated area for reviewing and managing active subs
 
 Users can view subscription details, identify subscriptions that may need attention, review recurring payments, and manage their plans.
 
-![Subscription Management](images/subscription-management.png)
+<p align="center">
+  <img src="images/subscription-management.png" width="300">
+</p>
 
 ### ✨ Personalized Financial Suggestions
 
@@ -48,7 +56,9 @@ THMN provides financial suggestions based on users' spending behavior.
 
 Suggestions can highlight spending changes, provide alerts, and recommend opportunities to reduce expenses and improve saving habits.
 
-![Financial Suggestions](images/financial-suggestions.png)
+<p align="center">
+  <img src="images/financial-suggestions.png" width="300">
+</p>
 
 ## Design Process
 
@@ -103,13 +113,20 @@ One identified issue involved onboarding navigation. Some participants naturally
 
 To better match common mobile interaction patterns, drag/swipe interaction was added alongside tap navigation.
 
-Other feedback helped improve the clarity and discoverability of interface elements related to subscriptions and financial suggestions.
+Another usability issue involved the subscription status label **"Unused."** Some participants found the term unclear, so it was revised to the more descriptive **"Low Usage"** label.
+
+These changes improved navigation flexibility and made subscription information easier to understand.
 
 ## Prototype
 
-The final solution was developed as a **high-fidelity interactive mobile prototype using Figma**.
+The final solution was developed as a **high-fidelity interactive mobile prototype using Figma**, consisting of **14 screens** covering four primary user flows:
 
-The prototype demonstrates the application's primary user flows and financial management features, including expense tracking, spending visualization, personalized suggestions, and subscription management.
+- Adding an expense
+- Viewing spending trends
+- Interacting with financial suggestions
+- Managing subscriptions
+
+The prototype was designed specifically for a mobile viewport and uses a consistent visual system to maintain a calm and cohesive user experience.
 
 ## Tools & Methods
 
